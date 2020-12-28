@@ -1,2 +1,1 @@
-# Machine Learning and Data Science -workbooks
-# Kaggle problem workbook
+# Machine Learning and Data Science and kaggle problem workbooks
